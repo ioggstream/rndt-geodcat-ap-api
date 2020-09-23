@@ -2,8 +2,6 @@
 
 [![License: EUPL 1.2](https://img.shields.io/badge/License-EUPL&nbsp;1.2-blue.svg)](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/eupl_v1.2_it.pdf)
 
-API per l'implementazione di GeoDCAT-AP
-
 L&#39;API di RNDT per l&#39;implementazione di GeoDCAT-AP consente di trasformare i metadati dei dati documentati secondo il profilo italiano RNDT, dallo standard ISO TS 19139 allo standard DCAT-AP/DCAT-AP_IT (estensione italiana di DCAT-AP) utilizzato per i dati aperti.
 
 L&#39;API accetta sia richieste CSW (GET e POST) che richieste REST e restituisce i metadati in formato RDF/XML o JSON-LD.
