@@ -19,7 +19,7 @@ Utilizza le librerie EasyRDF e ML/JSON-LD di PHP che sono [già disponibili nel 
 
 Il repository include tutto ciò che è necessario per l'installazione e l'avvio, copiando il codice in una 'web folder'. Prima dell'avvio è necessario configurare i parametri presenti nel file [```function/config.properties```](function/config.properties) secondo le indicazioni ivi presenti.
  
-**NOTA 1** - Il file [```publiccode.yml```](publiccode.yml) è un file di metadati richiesto per il software della pubblica amministrazione italiana e non è funzionale all'uso dell'API. Esso è stato inserito per consentire al crawler automatico di Developers Italia di raccogliere tutte le informazioni utili al popolamento del [catalogo del software open source](https://developers.italia.it/it/software/agid-agid-rndt-md-converter).
+**NOTA 1** - Il file [```publiccode.yml```](publiccode.yml) è un file di metadati richiesto per il software della pubblica amministrazione italiana e non è funzionale all'uso dell'API. Esso è stato inserito per consentire al crawler automatico di Developers Italia di raccogliere tutte le informazioni utili al popolamento del [catalogo del software open source](https://developers.italia.it/it/software).
 
 **NOTA 2** - La cartella [```images/```](images) contiene le immagini per il [```wiki```](https://github.com/AgID/rndt-geodcat-ap-api/wiki) e non è funzionale all'uso del converter.
 
