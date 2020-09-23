@@ -26,7 +26,7 @@ Il repository include tutto ciò che è necessario per l'installazione e l'avvio
 ## Documentazione di riferimento
 
 - [**Linee guida nazionali per l'implementazione di GeoDCAT-AP**](https://geodati.gov.it/geoportale/images/struttura/documenti/GeoDCAT-AP_IT-v1.0.pdf)
-- [**Profilo italiano DCAT-AP_IT**--](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html)
+- [**Profilo italiano DCAT-AP_IT**](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html)
 
 ## Licenza
 La licenza applicata è [European Union Public License v. 1.2](LICENSE).
