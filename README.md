@@ -17,7 +17,7 @@ La soluzione è stata sviluppata in PHP 7.1 e gira su qualsiasi web server che o
 
 Utilizza le librerie EasyRDF e ML/JSON-LD di PHP che sono [già disponibili nel repository](lib/composer).
 
-Il repository include tutto ciò che è necessario per l'installazione e l'avvio, copiando il codice in una 'web folder'. Prima dell'avvio è necessario configurare i parametri presenti nel file [```function/config.properties```](function/config.properties) secondo le indicazioni ivi presenti.
+Il repository include tutto ciò che è necessario per l'installazione e l'avvio, copiando la cartella di distribuzione [**geodcat-ap_it**](geodcat-ap_it) in una 'web folder'. Prima dell'avvio è necessario configurare i parametri presenti nel file [```function/config.properties```](function/config.properties) secondo le indicazioni ivi presenti.
  
 **NOTA 1** - Il file [```publiccode.yml```](publiccode.yml) è un file di metadati richiesto per il software della pubblica amministrazione italiana e non è funzionale all'uso dell'API. Esso è stato inserito per consentire al crawler automatico di Developers Italia di raccogliere tutte le informazioni utili al popolamento del [catalogo del software open source](https://developers.italia.it/it/software).
 
